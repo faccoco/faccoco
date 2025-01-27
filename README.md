@@ -1,14 +1,22 @@
 ## Hi👋, here is faccoco
 
 - Master student of SUSTech VIP lab
-- Music, Video Game, Robots and BangDream!
+- Music, Video Game, Robots and BangDream!!!
     
-### 🔭 Working on
-- Machine Vision
-- Scene Reconstruction
-### 🌱 Learning
-- LLMs
-- SLAM
+### 🔭 What I'm doing
+- **Working on:** Machine Vision & Scene Reconstruction
+- **Learning:** LLMs & SLAM
+
+### 🛠️ Skills & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 <br></br>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=faccoco&theme=default&show_icons=true&hide_border=false&count_private=true&hide_rank=true" alt="faccoco's GitHub Stats" style="display: inline-block; margin-right: 10px;" />
@@ -25,7 +33,7 @@
 
 
 
-## have a joke : )
+## have a good time : )
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
