@@ -30,9 +30,6 @@
 
 [![Faccoco's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faccoco&theme=dracula&bg_color=FFFFFF&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-
 ## have a good time : )
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
