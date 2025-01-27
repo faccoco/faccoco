@@ -1,4 +1,4 @@
-## Hi👋, here is faccoco
+# Hi👋, here is faccoco
 
 - Master student of SUSTech VIP lab
 - Music, Video Game, Robots and BangDream!
