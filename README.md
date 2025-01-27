@@ -16,7 +16,9 @@
 </p>
 <br></br>
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faccoco&theme=default)
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faccoco&theme=default" alt="faccoco's trophy" />
+</div>
 
 [![Faccoco's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faccoco&theme=dracula&bg_color=FFFFFF&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
