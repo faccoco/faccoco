@@ -3,7 +3,7 @@
 - Master student of SUSTech VIP lab
 - Music, Video Game, Robots and BangDream!!!
     
-### 🔭 What I'm doing
+### 🔭 What am I doing
 - **Working on:** Machine Vision & Scene Reconstruction
 - **Learning:** LLMs & SLAM
 
