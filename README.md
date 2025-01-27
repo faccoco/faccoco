@@ -11,7 +11,7 @@
 - SLAM
 <br></br>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=faccoco&theme=default&show_icons=true&hide_border=true&count_private=true&hide_rank=true" alt="faccoco's GitHub Stats" style="display: inline-block; margin-right: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=faccoco&theme=default&show_icons=true&hide_border=false&count_private=true&hide_rank=true" alt="faccoco's GitHub Stats" style="display: inline-block; margin-right: 10px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faccoco&hide=Tcl,Jupyter%20Notebook,ShaderLab,C%23&layout=compact" alt="language card" style="display: inline-block;" />
 </p>
 <br></br>
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="./sticker.webp" alt="Anon!" />
+  <img src="./Who_can_refuse_a_pink_nailong.webp" alt="Anon!" />
 </p>
 
 <!--
