@@ -1,12 +1,7 @@
 ## Hi👋, here is faccoco
 
-- Master student, from SUSTech VIP lab
+- Master student of SUSTech VIP lab
 - Music, Video Game, Robots and BangDream!
-    
-
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="flex: 1;">
     
 ### 🔭 Working on
 - Machine Vision
@@ -14,10 +9,10 @@
 ### 🌱 Learning
 - LLMs
 - SLAM
-    </div>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faccoco&hide=Tcl,Jupyter%20Notebook,ShaderLab,C%23&layout=compact" alt="language card" />
-    </div>
+
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faccoco&hide=Tcl,Jupyter%20Notebook,ShaderLab,C%23&layout=compact" alt="language card" />
 </div>
 
 [![Faccoco's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faccoco&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
