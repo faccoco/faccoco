@@ -16,7 +16,12 @@
 </p>
 <br></br>
 
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faccoco&theme=default)
+
 [![Faccoco's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faccoco&theme=dracula&bg_color=FFFFFF&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 
 ## have a joke : )
 <p align="center">
