@@ -16,7 +16,7 @@
 </p>
 <br></br>
 
-[![Faccoco's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faccoco&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Faccoco's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faccoco&theme=dracula&bg_color=FFFFFF&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## have a joke : )
 <p align="center">
