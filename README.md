@@ -16,13 +16,11 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<!-- <p align="center">
+    </p> -->
+<img src="https://github-readme-stats.vercel.app/api?username=faccoco&theme=default&show_icons=true&hide_border=false&count_private=true&hide_rank=true" alt="faccoco's GitHub Stats" style="display: inline-block; margin-right: 10px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faccoco&hide=Tcl,Jupyter%20Notebook,ShaderLab,C%23&layout=compact" alt="language card" style="display: inline-block;" />
 
-<br></br>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=faccoco&theme=default&show_icons=true&hide_border=false&count_private=true&hide_rank=true" alt="faccoco's GitHub Stats" style="display: inline-block; margin-right: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faccoco&hide=Tcl,Jupyter%20Notebook,ShaderLab,C%23&layout=compact" alt="language card" style="display: inline-block;" />
-</p>
-<br></br>
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faccoco&theme=default" alt="faccoco's trophy" />
