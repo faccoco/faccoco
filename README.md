@@ -9,11 +9,12 @@
 ### 🌱 Learning
 - LLMs
 - SLAM
-
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faccoco&hide=Tcl,Jupyter%20Notebook,ShaderLab,C%23&layout=compact" alt="language card" />
-</div>
+<br></br>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=faccoco&theme=default&show_icons=true&hide_border=true&count_private=true&hide_rank=true" alt="faccoco's GitHub Stats" style="display: inline-block; margin-right: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faccoco&hide=Tcl,Jupyter%20Notebook,ShaderLab,C%23&layout=compact" alt="language card" style="display: inline-block;" />
+</p>
+<br></br>
 
 [![Faccoco's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faccoco&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
