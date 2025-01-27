@@ -1,4 +1,34 @@
-## Hi there 👋
+## Hi there 
+# Hi👋, here is faccoco
+
+- Master student, from SUSTech VIP lab
+- Music, Video Game, Robots and BangDream!
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    
+### 🔭 Working on
+- Machine Vision
+- Scene Reconstruction
+
+### 🌱 Learning
+- LLMs
+- SLAM
+
+</div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faccoco&hide=Tcl,Jupyter%20Notebook,ShaderLab,C%23&layout=compact" alt="language card" />
+</div>
+
+[![Faccoco's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faccoco&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## have a joke : )
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
+
+<p align="center">
+  <img src="./Who_can_refuse_a_pink_nailong.webp" alt="Anon!" />
+</p>
 
 <!--
 **faccoco/faccoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
