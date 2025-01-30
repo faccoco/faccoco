@@ -1,6 +1,6 @@
 # Hi👋, here is faccoco
 
-- Master student of SUSTech VIP lab
+- Master student, from SUSTech VIP lab
 - Music, Video Game, Robots and BangDream!!!
     
 ### 🔭 What am I doing
